@@ -1,0 +1,65 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+video
+{
+    width:100%;
+    height: 300px;
+    width:100%;
+    object-fit: cover;
+
+}
+.overlay
+{   color: aqua;
+    border: black;
+    border:size:2px;
+    position: absolute;
+    top: 50%;
+    left: 35%;
+}
+
+
+h1{
+    color: rgb(80, 98, 175);
+    text-shadow: 4px 5px 10px rgb(245, 189, 7);
+    font-size: 300px;
+    opacity: 0.9;
+}
+h1:hover
+{
+    color:gold;
+}
+h4{
+    color: rgb(114, 113, 99);
+    text-shadow: 4px 5px 10px rgb(24, 19, 2);
+    font-size: 300px;
+    opacity: 0.9;
+    font-family:
+}
+h4:hover
+{
+    color:gold;
+}
+
+h2{
+    font-family: 'Kenia', cursive;
+}
+h2:hover
+{
+    color: aqua;
+}
+h5{ 
+    font-family: 'Neucha', cursive;
+}
+h5:hover
+{
+    color: brown;
+}
+.cheetah{
+    height: 50px;
+}
+.navebar-example2{
+    position: fixed;
+    top:6px;
+}
